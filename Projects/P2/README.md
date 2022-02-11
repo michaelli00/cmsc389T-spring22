@@ -11,7 +11,7 @@ On GitHub, navigate to the [pull requests](https://github.com/cmsc389T-spring22/
 2. Assign yourself as a reviewer (1 point)
 3. Click the "Add Your Review" button
 4. Click the "Review Changes" button
-5. Leave a comment and select approve (2 point)
+5. Leave a comment **and** select approve (2 points)
 6. Submit your review (2 points)
 
 ## Create an Issue Card
